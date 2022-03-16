@@ -1,5 +1,5 @@
-# CCC-HDELRI
-CCC-HDELRI: Deciphering ligand-receptor-mediated intercellular communications based on a heterogeneous deep ensemble framework from single-cell transcriptomics
+# LRI-HDEnHD
+LRI-HDEnHD: Deciphering ligand-receptor-mediated intercellular communications based on a heterogeneous deep ensemble framework from single-cell transcriptomics
 
 ## Data
 Data is available at [uniprot](https://www.uniprot.org/), [GEO](https://www.ncbi.nlm.nih.gov/geo/).
