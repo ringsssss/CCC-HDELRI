@@ -1,4 +1,4 @@
-# LRI-HDEnHD
+# LRI-HDEnHD-joint
 LRI-HDEnHD: Deciphering ligand-receptor-mediated intercellular communications based on a heterogeneous deep ensemble framework from single-cell transcriptomics
 
 ## Data
