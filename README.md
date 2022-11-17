@@ -1,5 +1,5 @@
-# LRI-HDEnHD-joint
-LRI-HDEnHD: Deciphering ligand-receptor-mediated intercellular communications based on a heterogeneous deep ensemble framework from single-cell transcriptomics
+# CellComm
+CellComm: Integrating potential ligand-receptor interactions and single-cell RAN sequencing data for cell-cell communication inference
 
 ## Data
 Data is available at [uniprot](https://www.uniprot.org/), [GEO](https://www.ncbi.nlm.nih.gov/geo/).
@@ -16,5 +16,5 @@ Install python3 for running this code. And these packages should be satisfied:
 ## Usage
 To run the model, default 5 fold cross validation
 ```
-python code/LRI-HDEnHD.py
+python code/CellComm.py
 ```
